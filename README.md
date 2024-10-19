@@ -1,17 +1,14 @@
 # Hello, I'm Josh
 <a href="https://www.linkedin.com/in/joshua-c-stroud"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-[Brief Introduction - Remove this afterwards]
 
 I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
 
 ## Objective
-[Provide Objective - Remove this afterwards]]
 
 My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
@@ -23,7 +20,6 @@ My journey in computer science has led me to develop a passion for cybersecurity
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
 ## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
 
 ### Network
 <div>
@@ -46,14 +42,13 @@ My journey in computer science has led me to develop a passion for cybersecurity
 </div>
 
 ## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
 <div>
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-Network%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-GFACT-006400?&style=for-the-badge&logo=GIAC&logoColor=white" />
-<img src="https://img.shields.io/badge/-GSEC-006400?&style=for-the-badge&logo=GIAC&logoColor=white" />
-<img src="https://img.shields.io/badge/-GCIH-006400?&style=for-the-badge&logo=GIAC&logoColor=white" />
-<img src="https://img.shields.io/badge/-CC-000080?&style=for-the-badge&logo=ISC2&logoColor=white" />
+<img src="https://img.shields.io/badge/-GCIH-000080?&style=for-the-badge&logo=GIAC&logoColor=white" />
+<img src="https://img.shields.io/badge/-GSEC-000080?&style=for-the-badge&logo=GIAC&logoColor=white" />
+<img src="https://img.shields.io/badge/-Security%2B-C8202F?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+<img src="https://img.shields.io/badge/-Network%2B-C8202F?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+<img src="https://img.shields.io/badge/-GFACT-000080?&style=for-the-badge&logo=GIAC&logoColor=white" />
+<img src="https://img.shields.io/badge/-CC-468145?&style=for-the-badge&logo=ISC2&logoColor=white" />
 </div>
 
 ## Projects
