@@ -49,7 +49,7 @@ governance, risk management, and compliance assurance, while also providing oppo
     <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
     <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
-    <img src="https://img.shields.io/badge/-IBM_QRadar-fffffa?&style=for-the-badge&logo=https://www.svgrepo.com/show/303377/ibm-logo.svg&logoColor=black" />
+    <img src="https://img.shields.io/badge/-IBM_QRadar-fffffa?&style=for-the-badge&logo=IBM&logoColor=black" />
 </div>
 
 ## Certifications
