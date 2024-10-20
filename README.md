@@ -7,8 +7,8 @@
 I am a cybersecurity enthusiast with an affinity for threat hunting and analysis. My journey in computer science led me to develop a passion for 
 cybersecurity. I started my career as a computer repair technician back in the 1990s while enrolled in a high school vocational program for 
 computer programming. Since that time, I have worked in roles across multiple IT and cybersecurity disciplines including network and system 
-administration, vulnerability assessment, identity access management, and information security compliance assurance. I also have practical knowledge 
-and experience in threat intelligence analysis, operational and project management, quality assurance, and leadership from my 24 years of military 
+administration, vulnerability assessment, identity access management, and information security compliance assurance. I also have practical 
+knowledge and experience in threat intelligence analysis, operational and project management, quality assurance, and leadership from my 24 years of military 
 experience.
 
 ## Objective
