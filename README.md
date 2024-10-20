@@ -53,9 +53,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 </div>
 
 View and verify my credentials:
-<div>
-<img src="https://img.shields.io/badge/-Credly-FF6B00?&style=for-the-badge&logo=Credly&logoColor=white" />   
-</div>
+ <a href="https://www.credly.com/users/joshua-stroud.7d42c890"><div><img src="https://img.shields.io/badge/-Credly-FF6B00?&style=for-the-badge&logo=Credly&logoColor=white" /></div><a/>
 
 ## Projects
 - Detection Lab
