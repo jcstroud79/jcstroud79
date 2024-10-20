@@ -52,6 +52,11 @@ My journey in computer science has led me to develop a passion for cybersecurity
 <img src="https://img.shields.io/badge/-CC-468145?&style=for-the-badge&logo=ISC2&logoColor=white" />
 </div>
 
+View and verify my credentials:
+<div>
+<img src="https://img.shields.io/badge/-Credly-FF6B00?&style=for-the-badge&logo=Credly&logoColor=white" />   
+</div>
+
 ## Projects
 - Detection Lab
 - SOC Automation Project
