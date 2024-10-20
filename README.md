@@ -4,11 +4,12 @@
 <a href="https://www.credly.com/users/joshua-stroud.7d42c890"><img src="https://img.shields.io/badge/-Credly-FF6B00?&style=for-the-badge&logo=Credly&logoColor=white" /><a/>
 <div/>
 
-I am a cybersecurity enthusiast with an affinity for threat hunting and analysis. My journey in computer science led me to develop a passion for cybersecurity. I started my 
-career as a computer repair technician back in the 1990s while enrolled in a high school vocational program for computer programming. Since that time, I have worked in 
-roles across multiple IT and cybersecurity disciplines including network and system administration, vulnerability assessment, identity access management, and information security 
-compliance assurance. I also have practical knowledge and experience in threat intelligence analysis, operational and project management, quality assurance, and leadership from my
-24 years of military experience.
+I am a cybersecurity enthusiast with an affinity for threat hunting and analysis. My journey in computer science led me to develop a passion for 
+cybersecurity. I started my career as a computer repair technician back in the 1990s while enrolled in a high school vocational program for 
+computer programming. Since that time, I have worked in roles across multiple IT and cybersecurity disciplines including network and system 
+administration, vulnerability assessment, identity access management, and information security compliance assurance. I also have practical knowledge 
+and experience in threat intelligence analysis, operational and project management, quality assurance, and leadership from my 24 years of military 
+experience.
 
 ## Objective
 
