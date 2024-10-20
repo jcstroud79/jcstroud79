@@ -8,14 +8,14 @@ I am a cybersecurity enthusiast with an affinity for threat hunting and analysis
 cybersecurity. I started my career as a computer repair technician back in the 1990s while enrolled in a high school vocational program for 
 computer programming. Since that time, I have worked in roles across multiple IT and cybersecurity disciplines including network and system 
 administration, vulnerability assessment, identity access management, and information security compliance assurance. I also have practical 
-knowledge and experience in threat intelligence analysis, operational and project management, quality assurance, and leadership from my 24 years of military 
-experience.
+knowledge and experience in threat intelligence analysis, operational and project management, quality assurance, and leadership from my 24 
+years of military experience.
 
 ## Objective
 
-My immediate objective is to obtain a role that leverages my skillset to make an actionable positive impact on an organization's security posture and reduce the organization's 
-overall attack surface and risk profile. An ideal role would  provide specialization in cybersecurity governance, risk management, and compliance assurance, while also providing 
-opportunites to develop and challenge my  technical skills.
+My immediate objective is to obtain a role that leverages my skillset to make an actionable positive impact on an organization's security posture 
+and reduce the organization's overall attack surface and risk profile. An ideal role would  provide specialization in cybersecurity governance, 
+risk management, and compliance assurance, while also providing opportunity to develop and challenge my technical skills.
 
 ## Skills
 
