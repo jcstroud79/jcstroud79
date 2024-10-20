@@ -1,5 +1,5 @@
 # Hello, I'm Josh
-<a href="https://www.linkedin.com/in/joshua-c-stroud"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/joshua-c-stroud"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://www.credly.com/users/joshua-stroud.7d42c890"><img src="https://img.shields.io/badge/-Credly-FF6B00?&style=for-the-badge&logo=Credly&logoColor=white" /><a/>
 
 
 I am a cybersecurity enthusiast with a passion for cybersecurity governance, risk management, and compliance auditing. I have over 25 years of combined experience in IT support, network and system administration, and cross-functional cybersecurity disciplines.
@@ -51,11 +51,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 <img src="https://img.shields.io/badge/-GFACT-000080?&style=for-the-badge&logo=GIAC&logoColor=white" />
 <img src="https://img.shields.io/badge/-CC-468145?&style=for-the-badge&logo=ISC2&logoColor=white" />
 </div>
-
-## Credentials
-View my credentials: <a href="https://www.credly.com/users/joshua-stroud.7d42c890"><img src="https://img.shields.io/badge/-Credly-FF6B00?&style=for-the-badge&logo=Credly&logoColor=white" /><a/>
-
-    
+  
 ## Projects
 - Detection Lab
 - SOC Automation Project
