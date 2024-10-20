@@ -59,6 +59,11 @@ governance, risk management, and compliance assurance, while also providing oppo
     <img src="https://img.shields.io/badge/-Cortex_XSOAR-F04E23?&style=for-the-badge&logo=PaloAltoNetworks&logoColor=white" /><a/>
 </div>
 
+### Vulnerability Assessment & Penetration Testing
+<div>
+    <img src="https://img.shields.io/badge/-OpenVAS-90E59A?&style=for-the-badge&logo=Greenbone&logoColor=white" /><a/>
+</div>
+
 ## Certifications
 <div>
     <img src="https://img.shields.io/badge/-GIAC_GCIH-000080?&style=for-the-badge&logo=GIAC&logoColor=white" />
