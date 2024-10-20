@@ -38,6 +38,11 @@ governance, risk management, and compliance assurance, while also providing oppo
     <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
 </div>
 
+### Firewall
+<div>
+    <img src="https://img.shields.io/badge/-FortiGate-EE3124?&style=for-the-badge&logo=Fortinet&logoColor=white" /><a/>
+</div>
+
 ### Endpoint
 <div>
     <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
@@ -54,14 +59,14 @@ governance, risk management, and compliance assurance, while also providing oppo
 
 ## Certifications
 <div>
-<img src="https://img.shields.io/badge/-GIAC_GCIH-000080?&style=for-the-badge&logo=GIAC&logoColor=white" />
-<a href="https://www.credly.com/badges/da5ab023-e27e-4ed1-9157-ba149bcd9358/public_url"><img src="https://img.shields.io/badge/-GIAC_GSEC-000080?&style=for-the-badge&logo=GIAC&logoColor=white" /><a/>
-<a href="https://www.credly.com/badges/dd28ba53-4f3a-40ff-a897-9c636f2e66ff/public_url"><img src="https://img.shields.io/badge/-GIAC_GFACT-000080?&style=for-the-badge&logo=GIAC&logoColor=white" /><a/>
-<a href="https://www.credly.com/badges/600ba462-c210-484e-afd0-2cd24720c932/public_url"><img src="https://img.shields.io/badge/-Security%2B-C8202F?&style=for-the-badge&logo=CompTIA&logoColor=white" /><a/>
-<a href="https://www.credly.com/badges/80686c77-cc7e-44d4-9ca7-8ef8b1c5990b/public_url"><img src="https://img.shields.io/badge/-Network%2B-C8202F?&style=for-the-badge&logo=CompTIA&logoColor=white" /><a/>
-<a href="https://www.credly.com/badges/2a8e6c48-50fd-46fb-868a-089b82f9161e/public_url"><img src="https://img.shields.io/badge/-CC-468145?&style=for-the-badge&logo=ISC2&logoColor=white" /><a/>
-<a href="https://www.credly.com/badges/2a8e6c48-50fd-46fb-868a-089b82f9161e/public_url"><img src="https://img.shields.io/badge/-FCF-EE3124?&style=for-the-badge&logo=Fortinet&logoColor=white" /><a/>
-<a href="https://www.credly.com/badges/2a8e6c48-50fd-46fb-868a-089b82f9161e/public_url"><img src="https://img.shields.io/badge/-FCA-EE3124?&style=for-the-badge&logo=Fortinet&logoColor=white" /><a/>
+    <img src="https://img.shields.io/badge/-GIAC_GCIH-000080?&style=for-the-badge&logo=GIAC&logoColor=white" />
+    <a href="https://www.credly.com/badges/da5ab023-e27e-4ed1-9157-ba149bcd9358/public_url"><img src="https://img.shields.io/badge/-GIAC_GSEC-000080?&style=for-the-badge&logo=GIAC&logoColor=white" /><a/>
+    <a href="https://www.credly.com/badges/dd28ba53-4f3a-40ff-a897-9c636f2e66ff/public_url"><img src="https://img.shields.io/badge/-GIAC_GFACT-000080?&style=for-the-badge&logo=GIAC&logoColor=white" /><a/>
+    <a href="https://www.credly.com/badges/600ba462-c210-484e-afd0-2cd24720c932/public_url"><img src="https://img.shields.io/badge/-Security%2B-C8202F?&style=for-the-badge&logo=CompTIA&logoColor=white" /><a/>
+    <a href="https://www.credly.com/badges/80686c77-cc7e-44d4-9ca7-8ef8b1c5990b/public_url"><img src="https://img.shields.io/badge/-Network%2B-C8202F?&style=for-the-badge&logo=CompTIA&logoColor=white" /><a/>
+    <a href="https://www.credly.com/badges/2a8e6c48-50fd-46fb-868a-089b82f9161e/public_url"><img src="https://img.shields.io/badge/-CC-468145?&style=for-the-badge&logo=ISC2&logoColor=white" /><a/>
+    <a href="https://www.credly.com/badges/0733b0ad-44d3-40a1-aaeb-e627f9aa9a7f/public_url"><img src="https://img.shields.io/badge/-FCF-EE3124?&style=for-the-badge&logo=Fortinet&logoColor=white" /><a/>
+    <a href="https://www.credly.com/badges/0733b0ad-44d3-40a1-aaeb-e627f9aa9a7f/public_url"><img src="https://img.shields.io/badge/-FCA-EE3124?&style=for-the-badge&logo=Fortinet&logoColor=white" /><a/>
 </div>
   
 ## Projects
