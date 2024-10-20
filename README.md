@@ -62,6 +62,7 @@ governance, risk management, and compliance assurance, while also providing oppo
 ### Vulnerability Assessment & Penetration Testing
 <div>
     <img src="https://img.shields.io/badge/-OpenVAS-90E59A?&style=for-the-badge&logo=Greenbone&logoColor=white" /><a/>
+    <img src="https://img.shields.io/badge/-Burp Suite-FF6633?&style=for-the-badge&logo=BurpSuite&logoColor=white" /><a/>
 </div>
 
 ## Certifications
