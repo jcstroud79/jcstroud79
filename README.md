@@ -57,6 +57,11 @@ governance, risk management, and compliance assurance, while also providing oppo
     <img src="https://img.shields.io/badge/-IBM_QRadar-fffffa?&style=for-the-badge&logo=IBM&logoColor=black" />
 </div>
 
+### SOAR
+<div>
+    <img src="https://img.shields.io/badge/-Palo_Alto_Cortex_XSOAR-EE3124?&style=for-the-badge&logo=PaloAlto&logoColor=white" /><a/>
+</div>
+
 ## Certifications
 <div>
     <img src="https://img.shields.io/badge/-GIAC_GCIH-000080?&style=for-the-badge&logo=GIAC&logoColor=white" />
