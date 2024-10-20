@@ -14,7 +14,7 @@ compliance assurance. I also have practical knowledge and experience in threat i
 
 My immediate objective is to obtain a role that leverages my skillset to make an actionable positive impact on an organization's security posture and reduce the organization's 
 overall attack surface and risk profile. An ideal role would  provide specialization in cybersecurity governance, risk management, and compliance assurance, while also providing 
-opportunites to develop and challenge my skills.
+opportunites to develop and challenge my  technical skills.
 
 ## Skills
 
