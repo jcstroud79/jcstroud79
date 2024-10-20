@@ -59,7 +59,7 @@ governance, risk management, and compliance assurance, while also providing oppo
 
 ### SOAR
 <div>
-    <img src="https://img.shields.io/badge/-Palo_Alto_Cortex_XSOAR-F04E23?&style=for-the-badge&logo=Palo_Alto_Networks&logoColor=white" /><a/>
+    <img src="https://img.shields.io/badge/-Cortex_XSOAR-F04E23?&style=for-the-badge&logo=PaloAltoNetworks&logoColor=white" /><a/>
 </div>
 
 ## Certifications
