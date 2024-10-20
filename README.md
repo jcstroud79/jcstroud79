@@ -51,9 +51,9 @@ My journey in computer science has led me to develop a passion for cybersecurity
 <img src="https://img.shields.io/badge/-GFACT-000080?&style=for-the-badge&logo=GIAC&logoColor=white" />
 <img src="https://img.shields.io/badge/-CC-468145?&style=for-the-badge&logo=ISC2&logoColor=white" />
 </div>
-<div>
-<a href="https://www.credly.com/users/joshua-stroud.7d42c890">View and verify my credentials on <img src="https://img.shields.io/badge/-Credly-FF6B00?&style=for-the-badge&logo=Credly&logoColor=white" /><a/>
-<div/>
+
+#### <a href="https://www.credly.com/users/joshua-stroud.7d42c890">View and verify my credentials on <img src="https://img.shields.io/badge/-Credly-FF6B00?&style=for-the-badge&logo=Credly&logoColor=white" /><a/>
+
     
 ## Projects
 - Detection Lab
