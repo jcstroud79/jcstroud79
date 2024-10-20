@@ -60,6 +60,7 @@ governance, risk management, and compliance assurance, while also providing oppo
 <a href="https://www.credly.com/badges/600ba462-c210-484e-afd0-2cd24720c932/public_url"><img src="https://img.shields.io/badge/-Security%2B-C8202F?&style=for-the-badge&logo=CompTIA&logoColor=white" /><a/>
 <a href="https://www.credly.com/badges/80686c77-cc7e-44d4-9ca7-8ef8b1c5990b/public_url"><img src="https://img.shields.io/badge/-Network%2B-C8202F?&style=for-the-badge&logo=CompTIA&logoColor=white" /><a/>
 <a href="https://www.credly.com/badges/2a8e6c48-50fd-46fb-868a-089b82f9161e/public_url"><img src="https://img.shields.io/badge/-CC-468145?&style=for-the-badge&logo=ISC2&logoColor=white" /><a/>
+<a href="https://www.credly.com/badges/2a8e6c48-50fd-46fb-868a-089b82f9161e/public_url"><img src="https://img.shields.io/badge/-FCF-EE3124?&style=for-the-badge&logo=Fortinet&logoColor=white" /><a/>
 </div>
   
 ## Projects
