@@ -38,6 +38,7 @@ governance, risk management, and compliance assurance, while also providing oppo
     <img src="https://img.shields.io/badge/-snort-F6A7AA?&style=for-the-badge&logo=Snort&logoColor=black" />
     <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
     <img src="https://img.shields.io/badge/-FortiGate-EE3124?&style=for-the-badge&logo=Fortinet&logoColor=white" /><a/>
+    <img src="https://img.shields.io/badge/-Strata-F04E23?&style=for-the-badge&logo=PaloAltoNetworks&logoColor=white" /><a/>
 </div>
 
 ### Endpoint
